@@ -1,0 +1,129 @@
+Start testing: Mar 28 19:41 CEST
+----------------------------------------------------------
+1/1 Testing: test-a2
+1/1 Test: test-a2
+Command: "/home/maturk/git/CMM/a2-maturk/build/src/test-a2/test-a2"
+Directory: /home/maturk/git/CMM/a2-maturk/build/src/test-a2
+"test-a2" start time: Mar 28 19:41 CEST
+Output:
+----------------------------------------------------------
+test_4_AnalyticJacobian[37m.....................................[1;31mFAILED[0m
+Analytic Jacobian is not implemented.
+ (error = 1 > tol = 0.0001)
+dpdq_analytic(r, c) != dpdq_estimated(r, c)
+dpdq_analytic(r, c): 0
+dpdq_estimated(r, c): 1
+difference: -1
+
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0.2625 > tol = 0.0001)
+dpdq_analytic(r, c) != dpdq_estimated(r, c)
+dpdq_analytic(r, c): 0
+dpdq_estimated(r, c): -0.2625
+difference: 0.2625
+
+ (error = 0 < tol = 0.0001)
+ (error = 0.491446 > tol = 0.0001)
+dpdq_analytic(r, c) != dpdq_estimated(r, c)
+dpdq_analytic(r, c): 0
+dpdq_estimated(r, c): 0.491446
+difference: -0.491446
+
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 1 > tol = 0.0001)
+dpdq_analytic(r, c) != dpdq_estimated(r, c)
+dpdq_analytic(r, c): 0
+dpdq_estimated(r, c): 1
+difference: -1
+
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0.2625 > tol = 0.0001)
+dpdq_analytic(r, c) != dpdq_estimated(r, c)
+dpdq_analytic(r, c): 0
+dpdq_estimated(r, c): 0.2625
+difference: -0.2625
+
+ (error = 0.135 > tol = 0.0001)
+dpdq_analytic(r, c) != dpdq_estimated(r, c)
+dpdq_analytic(r, c): 0
+dpdq_estimated(r, c): -0.135
+difference: 0.135
+
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 1 > tol = 0.0001)
+dpdq_analytic(r, c) != dpdq_estimated(r, c)
+dpdq_analytic(r, c): 0
+dpdq_estimated(r, c): 1
+difference: -1
+
+ (error = 0.135 > tol = 0.0001)
+dpdq_analytic(r, c) != dpdq_estimated(r, c)
+dpdq_analytic(r, c): 0
+dpdq_estimated(r, c): 0.135
+difference: -0.135
+
+ (error = 0.491446 > tol = 0.0001)
+dpdq_analytic(r, c) != dpdq_estimated(r, c)
+dpdq_analytic(r, c): 0
+dpdq_estimated(r, c): -0.491446
+difference: 0.491446
+
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+ (error = 0 < tol = 0.0001)
+Parent of joint 19 is 
+14
+
+test_1[37m......................................................[1;32mPASSED[0m
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"test-a2" end time: Mar 28 19:41 CEST
+"test-a2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 28 19:41 CEST

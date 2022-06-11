@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20220328-1740-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.16.3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="maturk"
+	OSRelease="5.4.0-104-generic"
+	OSVersion="#118-Ubuntu SMP Wed Mar 2 19:02:41 UTC 2022"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="60"
+	ProcessorCacheSize="6144"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="8135"
+	TotalPhysicalMemory="15942"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="3299.15"
+	>
+	<Testing>
+		<StartDateTime>Mar 28 19:41 CEST</StartDateTime>
+		<StartTestTime>1648489260</StartTestTime>
+		<TestList>
+			<Test>./src/test-a2/test-a2</Test>
+		</TestList>
+		<Test Status="failed">
+			<Name>test-a2</Name>
+			<Path>./src/test-a2</Path>
+			<FullName>./src/test-a2/test-a2</FullName>
+			<FullCommandLine>/home/maturk/git/CMM/a2-maturk/build/src/test-a2/test-a2</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>Failed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0131063</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/maturk/git/CMM/a2-maturk/build/src/test-a2/test-a2</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJztVkFrgzAUvucveHm9tTAlT11H3ToQtsHGDoUePUiqETKM6Wwu+/eLq461enAwwgp6Ct8X3vtivpf3ND/oNEzjipUfWmQvLFM7wSonCW6kN+ZzErwNUD7Fz6+PD05CJeliQRcMxAEqpUHIfcklrzTPPQJzXteqhjUg3INWpVlRj1KKC5Lv8/eUtWHm9RVkC5it4Qs2eoVkJsQRH9obASVDeyNAkoui4DWvMh6Bi+SHDAp3ZzJGcp6/9K/tncE9Jjw5SQuNVhyuMAyX9jR3GU9//zf6F7cwcda4qWB/af5evboDBethYPcVMfnOHpEG+aeem7jLrVO7zu4b2+0723oHdAdb4NQBL4nbMHNtGlQBb0qYBa6ayZZgSIhuxmgcPzUPj9G+3MTbbTtGfwLifhwK====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Mar 28 19:41 CEST</EndDateTime>
+		<EndTestTime>1648489260</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

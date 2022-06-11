@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20220331-1827-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.16.3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="maturk"
+	OSRelease="5.4.0-105-generic"
+	OSVersion="#119-Ubuntu SMP Mon Mar 7 18:49:24 UTC 2022"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="60"
+	ProcessorCacheSize="6144"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="8135"
+	TotalPhysicalMemory="15942"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="3399.81"
+	>
+	<Testing>
+		<StartDateTime>Mar 31 20:33 CEST</StartDateTime>
+		<StartTestTime>1648751582</StartTestTime>
+		<TestList>
+			<Test>./src/test-a2/test-a2</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>test-a2</Name>
+			<Path>./src/test-a2</Path>
+			<FullName>./src/test-a2/test-a2</FullName>
+			<FullCommandLine>/home/maturk/git/CMM/a2-maturk/build/src/test-a2/test-a2</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00257614</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/maturk/git/CMM/a2-maturk/build/src/test-a2/test-a2</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJztlC8PwkAMxf2+wkwlCC7t3YVBAEECBkUCboKMrWRLth3Zyr9vzwECCcGA4Kmm7/eeaircysZupnVSXqRIF0nqtkVSh7GJKvWOwphGRlfL6Wo1n4UxVtDhpnENTIAUIRnLPTIwBnGl36FCROoGTwo/9KwykYlu7Z82DBQN0b5qeI/6e7/h/cLNaaXtQL+iyFPD/rfvyitY5wyN/wPgdiB+lvt8kP1B4JS03qvckTNoizplKAT4nDJn7QPOfTR3ZXZLE2oL24svUMEVPokVKQ==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Mar 31 20:33 CEST</EndDateTime>
+		<EndTestTime>1648751582</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
