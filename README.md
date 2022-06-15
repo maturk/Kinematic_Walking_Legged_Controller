@@ -1,4 +1,8 @@
-This repository contains my implementation of a kinematic walking controller for the unitree legged robot. This was the second assignment for the course Computational Models of Motion (Spring 2022) offered at ETH. I obtained full marks for my implementation. 
+This repository contains my implementation of a kinematic walking controller for the unitree legged robot. This was the second assignment for the course Computational Models of Motion (Spring 2022) offered at ETH. I obtained full marks for my implementation. It consisted of inverse kinematics for all four legs and joints, analytical and finite difference jacobian definitions, as well as velocity trajectory planning. 
+
+Here is a short demo of the controller working:
+![Demo walking dog] [https://github.com/maturk/Kinematic_Walking_Legged_Controller/blob/master/walking_dog.gif]
+![2022-06-15 13-41-20](https://user-images.githubusercontent.com/30566358/173819026-43f70b72-f879-41cc-ab9d-b934c3adeb5f.gif)
 
 # Assignment 2 - Kinematic walking controller
 
