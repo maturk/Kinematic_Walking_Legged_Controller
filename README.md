@@ -40,30 +40,6 @@ position, we want to find **desired joint angles** for each leg that allow the f
 leg) to reach its corresponding target position. Note. You can render skeletal view by Main Menu > Draw options > Draw
 Skeleton.*
 
-## Hand-in and Evaluation
-
-Once you complete this assignment you should hand in
-
-- code pushed to your github repository.
-- a short video demonstrating Ex.5 implementation. (**Upload your video to YouTube and add a link to README.md**)
-
-The grading scheme is as follows
-
-- baseline (80 %): based on your code. Each exercise is counted as 20%.
-    - Ex.1-3 will be evaluated by an auto grading system **after the deadline**. (the test sets are **not visible** to
-      you)
-- advanced (20 %): based on unit test, code and demo videos. Each exercise is counted as 10%.
-    - Ex.4 will be evaluated by an auto grading system **after the deadline**. (the test sets are **not visible** to
-      you)
-    - Ex.5 will be evaluated based on your demo video.
-
-**IMPORTANT:** If your code is not built successfully, you will get **zero** point from this assignment. So make sure
-your code is built without any build/compile error. 
-
-**IMPORTANT:** If the system detect a suspected plagiarism case, you will get **zero** point from this assignment.
-
-Please leave your questions on GitHub, so your colleagues also can join our discussions.
-
 ## Exercises
 
 Okay now let's do this step-by-step :)
